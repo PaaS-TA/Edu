@@ -9,3 +9,7 @@
 # 52.69.141.17 api.52.69.141.17.xip.io
 # 52.69.141.17 uaa.52.69.141.17.xip.io
 # 52.196.34.241  portal-web-user.52.196.34.241.xip.io
+
+
+# eureka_client_serviceUrl_defaultZone: http://eureka-edu01.52.69.141.17.xip.io/eureka/
+# api_zuuluri: http://zuul-edu01.52.69.141.17.xip.io/apiserver
